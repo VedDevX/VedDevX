@@ -41,22 +41,10 @@
 
 ---
 
-<!-- Projects -->
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **SpineSense: Real-Time Posture Monitor** | Python, Mediapipe, OpenCV, Tkinter | Detects poor posture in real-time with alerts and a break timer. |
-| **Deepfake Image Detection** | TensorFlow, Keras, Streamlit | CNN classifier to detect deepfake images with interactive UI. |
-| **KAWAI: Virtual Assistant** | Python, OpenCV, Tkinter | Voice commands, face detection, reminders, and GUI-based assistant. |
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedDevX&show_icons=true&theme=tokyonight" alt="Vedant's GitHub stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedDevX&theme=tokyonight" alt="streak stats" height="180px"/>
 </p>
 
 <p align="center">
