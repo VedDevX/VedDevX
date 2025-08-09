@@ -8,7 +8,6 @@
 
 ---
 
-<!-- About Me -->
 ## 🌟 About Me  
 🎓 **B.E. Computer Engineering** (2021–2025) from Smt. Indira Gandhi College of Engineering  
 💡 Passionate about **AI/ML, scalable software solutions, and full-stack development**  
@@ -17,7 +16,6 @@
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -41,19 +39,36 @@
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedDevX&show_icons=true&theme=tokyonight" alt="Vedant's GitHub stats" height="180px"/>
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedDevX&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedDevX&show_icons=true&theme=tokyonight" alt="Vedant's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedDevX&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
-<!-- Connect -->
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedDevX&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VedDevX&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📜 Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedDevX&theme=tokyonight" alt="Profile Summary Card"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="mailto:vedantjadhav192004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
