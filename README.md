@@ -1,25 +1,9 @@
-## Hi there 👋
-
 <!--
-**VedDevX/VedDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**VedDevX/VedDevX** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**VedDevX/VedDevX** is a ✨ special repository because its README.md appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi 👋, I'm Vedant Jadhav</h1>
-<h3 align="center">A Python Enthusiast | Mini Projects Creator | Lifelong Learner</h3>
+<h3 align="center">Python Developer | Mini Projects Creator | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-jadhav-vj19" target="_blank">
@@ -35,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -45,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedDevX&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
@@ -53,14 +37,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-- 🔭 Check out my [Python Mini Projects Repository](https://github.com/VedDevX/Python) — curated beginner-friendly projects with clean code and detailed READMEs.  
-- 🌱 Currently learning advanced Python and exploring data structures.
+- 🔭 [Python Mini Projects](https://github.com/VedDevX/Python) — Beginner-friendly projects organized by topics.
+- 🌱 Currently exploring advanced Python concepts and data structures.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-jadhav-vj19" target="_blank">LinkedIn</a> • 
@@ -69,10 +53,10 @@ Here are some ideas to get you started:
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VedDevX&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VedDevX&style=flat-square&color=blue" alt="Profile Views" />
 </p>
